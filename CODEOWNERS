@@ -1,4 +1,4 @@
-*[a-Z] @megamanics
-tmp/[1] @me
-tmp/[123] @me
+*[a-Z] @me
+tmp/[1] @megamanics
+tmp/[123] @megamanics
 [123] @me
